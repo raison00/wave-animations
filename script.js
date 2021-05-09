@@ -1,4 +1,4 @@
-class Progress {
+/*class Progress {
   constructor(param = {}) {
     this.timestamp = null;
     this.duration = param.duration || Progress.CONST.DURATION;
@@ -179,4 +179,4 @@ class Confetti {
       duration: DURATION });
 
   }, DURATION / 2);
-})();
+})(); */
