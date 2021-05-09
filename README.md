@@ -8,4 +8,4 @@
 
 ### Functional Intent:  
 #### To illustrate the complexity of the core focus items.  As the user inputs more data, the value will change in the waves based on data entry.
-So: As more food is logged, the food wave becomes larger.  Goal for the user is to balance Food with the Excercise and the complexities of sleep and hydration. 
+So: As more food is logged, the food wave becomes larger. The goal for the user is to balance their Daily Food Budget with an Excercise Plan while balancing the complexities of how sleep and hydration impact the user's daily life. 
